@@ -1,8 +1,7 @@
-## Hi there 👋
-
+### I like to put the sillies in Achilles
+<!--
 ![Snake animation](https://raw.githubusercontent.com/proxiima-centaurii/proxiima-centaurii/output/github-contribution-grid-snake.svg)
 
-<!--
 **proxiima-centaurii/proxiima-centaurii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
