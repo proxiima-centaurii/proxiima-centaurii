@@ -1,4 +1,6 @@
-### I like to put the sillies in Achilles 🧽
+```bash
+I like to put the sillies in Achilles 🧽🌶️
+```
 <!--
 ![Snake animation](https://raw.githubusercontent.com/proxiima-centaurii/proxiima-centaurii/output/github-contribution-grid-snake.svg)
 
